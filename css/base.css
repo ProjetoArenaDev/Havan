@@ -1,0 +1,26 @@
+/* RESET GLOBAL */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* VARIÁVEIS */
+:root {
+    --blue: #0b3fd7;
+    --white: #ffffff;
+    --gray: #f4f4f4;
+}
+
+@font-face {
+    font-family: 'Nunito', sans-serif;
+    src: url(../fonts/Nunito/Nunito-ExtraLight.woff2) format('woff2'), url(../fonts/Nunito/Nunito-ExtraLight.woff) format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
