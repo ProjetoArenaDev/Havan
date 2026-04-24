@@ -3,9 +3,9 @@
 Este repositório contém o código-fonte de uma **landing page inspirada
 no e-commerce da Havan**, desenvolvida com foco em:
 
--   ⚡ Performance\
--   🧱 Organização escalável\
--   🧩 Componentização\
+-   ⚡ Performance
+-   🧱 Organização escalável
+-   🧩 Componentização
 -   👥 Trabalho em equipe (Arena Dev)
 
 O projeto foi construído utilizando tecnologias nativas da web ---
@@ -23,6 +23,7 @@ facilitar manutenção e evolução.
 
 ## 📂 Estrutura do Projeto
 
+```
 🗂️ Havan
 │
 ├── 🗂️ assets
@@ -78,7 +79,6 @@ facilitar manutenção e evolução.
 ├── 📄 index.html
 └── 📄 README.md
 
-
 Exemplo para adicionar de fontes:
 assets/
 ├── fonts/
@@ -86,7 +86,7 @@ assets/
 │       ├── Nunito-Regular.woff2
 │       ├── Nunito-Bold.woff2
 │       └── Nunito-Light.woff2 
-
+```
 ------------------------------------------------------------------------
 
 ## 🧠 Arquitetura do Projeto
@@ -95,23 +95,23 @@ assets/
 
 ### 🔹 Estrutura (HTML)
 
--   Separação por sections e components\
--   Organização semântica\
+-   Separação por sections e components
+-   Organização semântica
 -   Facilita manutenção e reutilização
 
 ### 🔹 Estilo (CSS)
 
--   base.css → reset + padrão global\
--   variables.css → centraliza cores e tokens\
--   layout.css → estrutura da página\
--   components.css → elementos reutilizáveis\
--   sections.css → estilos específicos\
+-   base.css → reset + padrão global
+-   variables.css → centraliza cores e tokens
+-   layout.css → estrutura da página
+-   components.css → elementos reutilizáveis
+-   sections.css → estilos específicos
 -   responsive.css → responsividade
 
 ### 🔹 JavaScript
 
--   main.js → inicialização geral\
--   loader.js → carregamento de componentes\
+-   main.js → inicialização geral
+-   loader.js → carregamento de componentes
 -   modules → scripts específicos por funcionalidade
 
 ------------------------------------------------------------------------
@@ -131,41 +131,41 @@ assets/
 
 ## 🎯 Boas Práticas
 
--   ✔️ Estrutura escalável para times\
--   ✔️ Organização de assets profissional\
-    ✔️ CSS modular\
--   ✔️ JavaScript desacoplado\
--   ✔️ Separação por responsabilidade\
+-   ✔️ Estrutura escalável para times
+-   ✔️ Organização de assets profissional
+-   ✔️ CSS modular
+-   ✔️ JavaScript desacoplado
+-   ✔️ Separação por responsabilidade
 -   ✔️ Sem dependência de frameworks
 
 ------------------------------------------------------------------------
 
 ## ⚠️ Observações
 
-Este projeto é educacional / experimental, inspirado na interface da Havan\
-Não possui integração com backend ou sistema de compras\
-Algumas imagens podem ser apenas ilustrativas.
+- Este projeto é educacional / experimental, inspirado na interface da Havan
+- Não possui integração com backend ou sistema de compras
+- Algumas imagens podem ser apenas ilustrativas.
 
 ------------------------------------------------------------------------
 
 ## 🔒 Segurança
 
-Sem dados sensíveis.\
-Projeto 100% front-end.\
-Este projeto não armazena informações sensíveis no repositório.\
-Quaisquer integrações externas utilizam boas práticas de segurança e variáveis protegidas.
+- Sem dados sensíveis.
+- Projeto 100% front-end.
+- Este projeto não armazena informações sensíveis no repositório.
+- Quaisquer integrações externas utilizam boas práticas de segurança e variáveis protegidas.
 
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Equipe
 
-Projeto desenvolvido no contexto da comunidade Arena Dev, com foco em aprendizado prático e colaboração em equipe.
+- Projeto desenvolvido no contexto da comunidade Arena Dev, com foco em aprendizado prático e colaboração em equipe.
 
 ------------------------------------------------------------------------
 
 ## 🚀 Próximos Passos
 
--   🔌 Integração com API de produtos\
--   🛒 Simulação de carrinho\
--   🔍 Busca dinâmica\
+-   🔌 Integração com API de produtos
+-   🛒 Simulação de carrinho
+-   🔍 Busca dinâmica
 -   🎯 Otimização SEO
