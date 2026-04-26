@@ -11,6 +11,11 @@ Explique o que foi feito neste PR
 - [ ] style
 
 ## 🧪 Como testar
+Passo a passo para validar:
+
+1.
+2.
+3.
 
 Explique como validar essa mudança
 
